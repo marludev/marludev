@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, vue and JavaScript vanilla**
 
-- 📫 How to reach me **luisg1997@gmail.com**
+- 📫 How to reach me **me@marludev.com**
 
 - 📄 Know about my experiences [marludev.com/sobre-mi](marludev.com/sobre-mi)
 
