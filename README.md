@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **react, vue and JavaScript vanilla**
 
-- 📫 How to reach me **me@marludev.com**
+- 📫 How to reach me **me@marlu.dev**
 
-- 📄 Know about my experiences [marludev.com/sobre-mi](marludev.com/sobre-mi)
+- 📄 Know about my experiences [marlu.dev/sobre-mi](marlu.dev/sobre-mi)
 
 - ⚡ Fun fact **i love star wars too much, i also love to eat**
 
