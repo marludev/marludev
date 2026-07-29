@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **testing with JavaScript**
 
-- 📝 I regularly write articles on [marludev.com/blog](marludev.com/blog)
+- 📝 I regularly write articles on [marlu.dev/blog](marlu.dev/blog)
 
 - 💬 Ask me about **react, vue and JavaScript vanilla**
 
